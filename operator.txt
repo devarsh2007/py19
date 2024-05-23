@@ -1,0 +1,6 @@
+what is operator
+--------------------------------------
+operator is symbol or signs which use to perform operation
+
+1)arithmetic operator
++,-,*,/,//,**,%
