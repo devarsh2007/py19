@@ -1,3 +1,12 @@
+# arithmetic
+# relational
+# logical
+# assignment
+# membership
+# identity 
+# bitwise
+
+
 a=20.4
 
 print(a//2.5) #floor division
