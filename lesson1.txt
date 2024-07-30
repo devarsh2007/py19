@@ -1,0 +1,9 @@
+() - paranthisis
+[] - square brackets
+{} - curly brackets
+: - colon
+; - semi-colon
+"" - double quates
+'' - single quates
+% - modulus
+* - astric
