@@ -7,3 +7,4 @@
 '' - single quates
 % - modulus
 * - astric
+# - hash

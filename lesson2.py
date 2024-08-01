@@ -17,4 +17,4 @@ print('''
                   line message....
       ''')
 
-print("12345");print("6789")
+print("12345");print("6789");print("10 11 12")
