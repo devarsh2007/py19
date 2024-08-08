@@ -1,4 +1,4 @@
-# string slicing
+# string slicing-
 
 name = "bhavnagar123"
 # age="12.9"
@@ -36,3 +36,12 @@ print("length : ",l)
 a=0
 print(text[l:0:-1])
 # print(text[l:-1+1:-1])
+
+data = "devarsh"
+print(data[2::1])
+print(data[:3:1])
+print(data[0:7])
+print(data[0:])
+print(data[:])
+print(data[::])
+print(data[::-1])

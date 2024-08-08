@@ -1,6 +1,12 @@
 number = 30003.5
 print("number :\n",number)
 
+# boolean type
+a = True
+b = False
+print(a)
+print(type(a))
+
 t = type(number)
 print("type of \nnumber : ",t)
 # print("")
